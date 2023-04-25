@@ -13,7 +13,6 @@ class CalendarsController < ApplicationController
   end
 
 
-#################################################################  
   private
 
   def plan_params
